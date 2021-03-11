@@ -12,3 +12,10 @@ When your read to deploy to Netlify you first must build a deployment build of t
 __Data Reset__. 
 There is an api route /api/departments/reset that will copy the original data back to the employee.json file. You can run this command locally from the browser by running ```http://localhost:5000/api/departments/reset```
 
+
+
+## Deployment Comments
+
+- Heroku Link==> https://employee-manager-b.herokuapp.com/
+- Git Hub Link==> https://github.com/Rcharitra1/employee-manager-b
+
