@@ -10,7 +10,7 @@ const api = {
         return `https://employee-manager-b.herokuapp.com/api/departments/name/${name}`
     },
     deleteEmployee: (id)=>{
-        return `https://employee-manager-b.herokuapp.com/api/departments/employee/id/${id}` 
+        return `https://employee-manager-b.herokuapp.com//api/departments/employee/id/${id}` 
     }
 }
 
