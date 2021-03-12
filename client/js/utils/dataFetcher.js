@@ -11,6 +11,7 @@ const deleteRequest = async (url)=>{
     };
        const res = await fetch(url, requestOptions)
        const result = await res.json()
+
        return result
 }
 
@@ -31,6 +32,8 @@ const putRequest = async(url,data)=>{
    
      const req = await fetch(url, requestObject)
      const result = await req.text()
+
+     
 
 }
 

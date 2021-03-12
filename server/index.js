@@ -127,5 +127,5 @@ app.use((req, res) => {
 
 // Tell express app to listen for incomming request on a specific PORT
 app.listen(PORT, () => {
-  console.log(`server started on http://localhost:5000`);
+  console.log(`server started on http://localhost:${PORT}`);
 });

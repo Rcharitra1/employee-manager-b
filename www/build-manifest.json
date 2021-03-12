@@ -5,11 +5,11 @@
       "imports": []
     },
     "js/dashboard/api/index.js": {
-      "bytes": 523,
+      "bytes": 599,
       "imports": []
     },
     "js/utils/dataFetcher.js": {
-      "bytes": 877,
+      "bytes": 885,
       "imports": []
     },
     "js/dashboard/events/EventManager.js": {
@@ -199,7 +199,7 @@
       "entryPoint": "js/dashboard/index.js",
       "inputs": {
         "js/dashboard/api/index.js": {
-          "bytesInOutput": 286
+          "bytesInOutput": 362
         },
         "js/utils/dataFetcher.js": {
           "bytesInOutput": 361
@@ -247,7 +247,7 @@
           "bytesInOutput": 263
         }
       },
-      "bytes": 18820
+      "bytes": 18896
     }
   }
 }
